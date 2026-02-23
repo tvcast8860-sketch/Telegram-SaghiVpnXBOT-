@@ -1,0 +1,1 @@
+vless://214064e0-b3b3-422a-969b-9f2e993e45cf@vxc.galardoxtn.ir:443?encryption=none&type=ws&host=Viangok.com&path=/?ed%3D2048&security=tls&sni=default.ssl.fastly.net#FAst-%D8%AF%DB%8C%D9%84%DB%8C%D8%AA%20%D9%86%D8%B4%D9%87-ALL-OPERATOR%F0%9F%87%A9%F0%9F%87%AA
